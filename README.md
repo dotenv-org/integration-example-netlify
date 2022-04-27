@@ -6,6 +6,29 @@ Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn mor
 
 Example Netlify + Dotenv integration.
 
+View the live example here: [https://dotenv-integration-example-netlify.netlify.app/](https://dotenv-integration-example-netlify.netlify.app/)
+
+## Screenshots on Dotenv
+
+If you are using Netlify with Dotenv, then your configuration will look similar in Dotenv.
+
+#### Staging environment variables
+
+<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot1.png" alt="screenshot1" />
+
+#### Production environment variables
+
+<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot2.png" alt="screenshot2" />
+
+#### Production integrations
+
+<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot3.png" alt="screenshot3" />
+
+#### Production Netlify integration
+
+<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot4.png" alt="screenshot4" />
+
+
 ## Development
 
 Run the development server:
