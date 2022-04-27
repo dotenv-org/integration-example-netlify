@@ -20,11 +20,11 @@ Production Tab:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot2.png" alt="screenshot2" />
 
-#### Production Integrations Tab:
+Production Integrations Tab:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot3.png" alt="screenshot3" />
 
-#### Production Netlify Integration:
+Production Netlify Integration:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot4.png" alt="screenshot4" />
 
