@@ -4,3 +4,6 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+[context.deploy-preview]
+  command = "npx dotenv-vault@latest pull staging .env --dotenvMe $STAGING_DOTENV_IT && npm run build"
