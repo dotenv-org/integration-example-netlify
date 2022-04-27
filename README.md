@@ -1,4 +1,9 @@
+Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn more at [dotenv.org](https://dotenv.org).
+
 # example-integration-netlify
+
+<img src="https://raw.githubusercontent.com/dotenv-org/example-integration-netlify/master/netlify.png" alt="netlify" align="right" />
+<img src="https://raw.githubusercontent.com/dotenv-org/example-integration-netlify/master/dotenv.png" alt="dotenv" align="right" />
 
 Example Netlify + Dotenv integration.
 
