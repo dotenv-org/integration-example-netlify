@@ -10,24 +10,23 @@ View the live example here: [https://dotenv-integration-example-netlify.netlify.
 
 ## Screenshots on Dotenv
 
-If you are using Netlify with Dotenv, then your configuration will look similar in Dotenv.
+If you are using Netlify with Dotenv, then your configuration will look similar in Dotenv. You'll see that the environment variables below map to [process.env.NEXT_PUBLIC_HELLO](https://github.com/dotenv-org/integration-example-netlify/blob/master/pages/index.js#L12)
 
-#### Staging environment variables
+Staging Tab:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot1.png" alt="screenshot1" />
 
-#### Production environment variables
+Production Tab:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot2.png" alt="screenshot2" />
 
-#### Production integrations
+#### Production Integrations Tab:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot3.png" alt="screenshot3" />
 
-#### Production Netlify integration
+#### Production Netlify Integration:
 
 <img src="https://raw.githubusercontent.com/dotenv-org/integration-example-netlify/master/screenshot4.png" alt="screenshot4" />
-
 
 ## Development
 
