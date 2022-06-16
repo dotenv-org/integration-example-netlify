@@ -21,7 +21,7 @@ export default function Home() {
       <main>
         <Header title={title} />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Change the value above in your .env* file
         </p>
       </main>
 
